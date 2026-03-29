@@ -1,9 +1,11 @@
 # music-theory
 
-Music theory tools (scales, chords, intervals). Zero-dependency, single-file Python CLI.
+Scales, chords, intervals, and key detection.
 
 ## Usage
 
 ```bash
-python3 music_theory.py --help
+python3 music_theory.py test
 ```
+
+Zero dependencies. Python 3.8+.
